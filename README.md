@@ -1,10 +1,5 @@
 # 📦 Meridian Supply Chain RAG Assistant
 
-![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.38.0-red.svg)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.114.0-009688.svg)
-![Langchain](https://img.shields.io/badge/Langchain-AI-orange.svg)
-
 An intelligent, full-stack Retrieval-Augmented Generation (RAG) system built to analyze and answer questions based on Meridian Supply Chain and Procurement policy documents.
 
 ### 🌐 Live Demo
